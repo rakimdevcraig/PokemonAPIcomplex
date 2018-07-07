@@ -3,7 +3,7 @@ This project was designed to allow the user to search for a pokemon and they wou
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/PokemonAPIcomplex/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API's
